@@ -1,7 +1,5 @@
 """
    Author: Olaoluwa Idowu
-   Student ID: 0372483
-   Assignment No: 7
    Title: Robo_Trumps
    Date: 4-02-2022  
 """
